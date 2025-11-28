@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ VOLCKER
+# VOLCKER
 ### The Ultimate Firewall Authority for Your Software
 
 ![Volcker Banner](Volcker/icon.ico)
@@ -18,13 +18,13 @@
 
 ---
 
-## 🚀 Mission Statement
+## Mission Statement
 
 **Volcker** exists to stop softwares from forcing liscense check, telemetry, unwanted updates, give you absolute dominion over your network traffic. In an era where software constantly "phones home," consumes bandwidth, and forces updates that break your workflow, Volcker stands as the gatekeeper. We believe your software should serve **you**, not the other way around.
 
 ---
 
-## 🛑 The Problem: Why You Need Volcker
+## The Problem: Why You Need Volcker
 
 If you have an unlicensed software, it blockes all it's Exe files from checking that you don't have a valid liscense. This is a common practice for softwares to force you to buy a license. Volcker helps you to block all the traffic that the software uses to check for updates, telemetry, etc.
 
@@ -35,40 +35,40 @@ If you have an unlicensed software, it blockes all it's Exe files from checking 
 
 ---
 
-## ⚡ The Solution: Total Network Isolation
+## The Solution: Total Network Isolation
 
 Volcker provides a simple, powerful interface to **block all inbound and outbound traffic** for entire application directories. One click, and your software is effectively "air-gapped" from the internet while remaining fully functional on your machine.
 
 ### Perfect For:
 
-🎨 **Creative Suites & Design Apps**
+ **Creative Suites & Design Apps**
 > Adobe Creative Cloud, Affinity Suite (Designer/Photo/Publisher), CorelDRAW Graphics Suite, Autodesk Maya, Autodesk 3ds Max, Cinema 4D, Sketch, Clip Studio Paint EX, ZBrush, Serif Affinity Photo.
 
-🎵 **Audio Production & DAWs**
+ **Audio Production & DAWs**
 > Ableton Live Suite, FL Studio All Plugins Edition, Logic Pro, Pro Tools, Cubase Pro, Studio One Professional, Reason, Bitwig Studio, Reaper, Ableton Push-integrated Suite.
 
-🏢 **Enterprise Productivity**
+ **Enterprise Productivity**
 > Microsoft Office Professional, Corel WordPerfect Office, Nitro PDF Pro, ABBYY FineReader PDF, Scrivener, Final Draft, MindManager, QuarkXPress.
 
-🛠️ **Developer Tools**
+ **Developer Tools**
 > Visual Studio Professional, Visual Studio Enterprise, IntelliJ IDEA Ultimate, PyCharm Professional, PhpStorm, WebStorm, Rider, DataGrip, UltraEdit, Navicat Premium.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 | :--- | :--- |
-| **🔒 One-Click Blocking** | Instantly block internet access for an entire softawer folder of executables. |
-| **📂 Recursive Scanning** | Automatically finds every `.exe` in subdirectories. No file left behind. |
-| **📜 History Tracking** | Remembers what you've blocked. Quickly re-block or unblock from your history. |
-| **💾 Persistence** | State is saved locally. Your rules survive reboots and updates. |
-| **🛡️ Native Security** | Uses the Windows Firewall API. No background drivers or sketchy services. |
-| **🎨 Premium UI** | Dark-themed interface that feels right at home on modern Windows. |
+| ** One-Click Blocking** | Instantly block internet access for an entire softawer folder of executables. |
+| ** Recursive Scanning** | Automatically finds every `.exe` in subdirectories. No file left behind. |
+| ** History Tracking** | Remembers what you've blocked. Quickly re-block or unblock from your history. |
+| ** Persistence** | State is saved locally. Your rules survive reboots and updates. |
+| ** Native Security** | Uses the Windows Firewall API. No background drivers or sketchy services. |
+| ** Premium UI** | Dark-themed interface that feels right at home on modern Windows. |
 
 ---
 
-## 🎥 Showcase
+## Showcase
 
 ### One-Click Blocking
 ![Browsing then choosing main directory of a software to then volcker blocks all its excutables](Volcker/showcase%20GIFs/Browsing%20then%20choosing%20main%20directory%20of%20a%20software%20to%20then%20volcker%20blocks%20all%20its%20excutables.gif)
@@ -84,7 +84,7 @@ Volcker provides a simple, powerful interface to **block all inbound and outboun
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 Volcker acts as an orchestrator for the native Windows Firewall. It does not install custom drivers, ensuring maximum system stability and security.
 
@@ -101,7 +101,7 @@ graph TD
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Option 1: Download Release (Recommended)
 1.  Go to the **[Releases](../../releases)** page.
@@ -125,7 +125,7 @@ If you prefer to compile it yourself:
 
 ---
 
-## 🎮 Usage Examples
+## Usage Examples
 
 ### Scenario: Stabilizing a Video Editor
 1.  Open Volcker.
@@ -136,7 +136,7 @@ If you prefer to compile it yourself:
 
 ---
 
-## ❓ FAQ
+## FAQ
 
 **Q: Is this safe?**
 A: Yes. Volcker uses standard Windows commands (`netsh` and PowerShell) to create firewall rules. It does not modify the applications themselves.
@@ -149,7 +149,7 @@ A: Yes, it works alongside Windows Defender and most third-party antiviruses, as
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 I welcome contributions! Whether it's a bug fix, a new feature, or a UI polish.
 
@@ -161,7 +161,7 @@ I welcome contributions! Whether it's a bug fix, a new feature, or a UI polish.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 *   Built with **.NET 8** and **WPF**.
 *   UI styled with modern design principles.
