@@ -1,12 +1,7 @@
 <div align="center">
 
 # VOLCKER
-### The Ultimate Firewall Authority for Your Software
-
 ![Volcker Banner](Volcker/icon.ico)
-
-**Reclaim Your Privacy. Enforce Your Control. Stabilize Your Workflow.**
-
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-0078D6?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Stable-blue?style=for-the-badge)](https://github.com/yourusername/volcker)
